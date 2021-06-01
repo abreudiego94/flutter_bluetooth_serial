@@ -5,6 +5,8 @@
 
 Flutter basic implementation for Classical Bluetooth (only RFCOMM for now).
 
+Flutter basic implementation for Classical Bluetooth (only RFCOMM for now).
+
 
 
 ## Features
